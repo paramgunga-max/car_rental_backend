@@ -1,0 +1,21 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Build output
+bin/
+obj/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+
+# Auto-generated
+*.dbmdl
+*.jfm
+
+# Publish
+publish/
